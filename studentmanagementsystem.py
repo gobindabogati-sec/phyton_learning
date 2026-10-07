@@ -1,5 +1,5 @@
 # STUDENT MANAGEMENT SYSTEM
-# Created by Gobinda Bogati (Student ID: 1900155)
+# Created by Gobinda Bogati 
 
 # Store students in a list
 students = []
